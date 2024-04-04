@@ -1,0 +1,1977 @@
+[
+    {
+        "il": "adana",
+        "PlacesToVisit": [
+            {
+                "id": "ADANA_1",
+                "ad": "Seyhan Baraj Gölü"
+            },
+            {
+                "id": "ADANA_2",
+                "ad": "Adana Merkez Park"
+            },
+            {
+                "id": "ADANA_3",
+                "ad": "Varda Köprüsü"
+            },
+            {
+                "id": "ADANA_4",
+                "ad": "Taşköprü"
+            },
+            {
+                "id": "ADANA_5",
+                "ad": "Adana Arkeoloji Müzesi"
+            }
+        ]
+    },
+    {
+        "il": "adıyaman",
+        "PlacesToVisit": [
+            {
+                "id": "ADIYAMAN_1",
+                "ad": "Nemrut Dağı Milli Parkı"
+            },
+            {
+                "id": "ADIYAMAN_2",
+                "ad": "Cendere Köprüsü"
+            },
+            {
+                "id": "ADIYAMAN_3",
+                "ad": "Kahta Kalesi"
+            },
+            {
+                "id": "ADIYAMAN_4",
+                "ad": "Adıyaman Müzesi"
+            },
+            {
+                "id": "ADIYAMAN_5",
+                "ad": "Perre Antik Kenti"
+            }
+        ]
+    },
+    {
+        "il": "afyonkarahisar",
+        "PlacesToVisit": [
+            {
+                "id": "AFYONKARAHİSAR_1",
+                "ad": "Afyon Kalesi"
+            },
+            {
+                "id": "AFYONKARAHİSAR_2",
+                "ad": "Frig Vadisi"
+            },
+            {
+                "id": "AFYONKARAHİSAR_3",
+                "ad": "Zafer Müzesi"
+            },
+            {
+                "id": "AFYONKARAHİSAR_4",
+                "ad": "Kocatepe Camii"
+            },
+            {
+                "id": "AFYONKARAHİSAR_5",
+                "ad": "Sultan Alaaddin Camii"
+            }
+        ]
+    },
+    {
+        "il": "ağrı",
+        "PlacesToVisit": [
+            {
+                "id": "AĞRI_1",
+                "ad": "Ağrı Dağı"
+            },
+            {
+                "id": "AĞRI_2",
+                "ad": "İshak Paşa Sarayı"
+            },
+            {
+                "id": "AĞRI_3",
+                "ad": "Doğubayazıt Müzesi"
+            },
+            {
+                "id": "AĞRI_4",
+                "ad": "Ahmedi Hani Türbesi"
+            },
+            {
+                "id": "AĞRI_5",
+                "ad": "Tutak Kaplıcaları"
+            }
+        ]
+    },
+    {
+        "il": "amasya",
+        "PlacesToVisit": [
+            {
+                "id": "AMASYA_1",
+                "ad": "Yeşilırmak Kıyısı"
+            },
+            {
+                "id": "AMASYA_2",
+                "ad": "Amasya Kalesi"
+            },
+            {
+                "id": "AMASYA_3",
+                "ad": "Amasya Müzesi"
+            },
+            {
+                "id": "AMASYA_4",
+                "ad": "Ferhat ile Şirin Aşk Tepesi"
+            },
+            {
+                "id": "AMASYA_5",
+                "ad": "Sarılar Konağı"
+            }
+        ]
+    },
+    {
+        "il": "ankara",
+        "PlacesToVisit": [
+            {
+                "id": "ANKARA_1",
+                "ad": "Anıtkabir"
+            },
+            {
+                "id": "ANKARA_2",
+                "ad": "Kocatepe Camii"
+            },
+            {
+                "id": "ANKARA_3",
+                "ad": "Atatürk Orman Çiftliği"
+            },
+            {
+                "id": "ANKARA_4",
+                "ad": "Ankara Kalesi"
+            },
+            {
+                "id": "ANKARA_5",
+                "ad": "Anadolu Medeniyetleri Müzesi"
+            }
+        ]
+    },
+    {
+        "il": "antalya",
+        "PlacesToVisit": [
+            {
+                "id": "ANTALYA_1",
+                "ad": "Konyaaltı Plajı"
+            },
+            {
+                "id": "ANTALYA_2",
+                "ad": "Düden Şelalesi"
+            },
+            {
+                "id": "ANTALYA_3",
+                "ad": "Antalya Müzesi"
+            },
+            {
+                "id": "ANTALYA_4",
+                "ad": "Kaleiçi"
+            },
+            {
+                "id": "ANTALYA_5",
+                "ad": "Perge Antik Kenti"
+            }
+        ]
+    },
+    {
+        "il": "artvin",
+        "PlacesToVisit": [
+            {
+                "id": "ARTVİN_1",
+                "ad": "Şavşat Karagöl"
+            },
+            {
+                "id": "ARTVİN_2",
+                "ad": "Artvin Kalesi"
+            },
+            {
+                "id": "ARTVİN_3",
+                "ad": "Macahel Vadisi"
+            },
+            {
+                "id": "ARTVİN_4",
+                "ad": "Murgul Kalesi"
+            },
+            {
+                "id": "ARTVİN_5",
+                "ad": "Mençuna Şelalesi"
+            }
+        ]
+    },
+    {
+        "il": "aydın",
+        "PlacesToVisit": [
+            {
+                "id": "AYDIN_1",
+                "ad": "Aydın Kuş Cenneti"
+            },
+            {
+                "id": "AYDIN_2",
+                "ad": "Didim Antik Kenti"
+            },
+            {
+                "id": "AYDIN_3",
+                "ad": "Milet Antik Kenti"
+            },
+            {
+                "id": "AYDIN_4",
+                "ad": "Aphrodisias Antik Kenti"
+            },
+            {
+                "id": "AYDIN_5",
+                "ad": "Yörük Ali Efe Müzesi"
+            }
+        ]
+    },
+    {
+        "il": "balıkesir",
+        "PlacesToVisit": [
+            {
+                "id": "BALIKESİR_1",
+                "ad": "Ayvalık Cunda Adası"
+            },
+            {
+                "id": "BALIKESİR_2",
+                "ad": "Assos Antik Kenti"
+            },
+            {
+                "id": "BALIKESİR_3",
+                "ad": "Troya Antik Kenti"
+            },
+            {
+                "id": "BALIKESİR_4",
+                "ad": "Kaz Dağları"
+            },
+            {
+                "id": "BALIKESİR_5",
+                "ad": "Edremit Körfezi"
+            }
+        ]
+    },
+    {
+        "il": "bartın",
+        "PlacesToVisit": [
+            {
+                "id": "BARTIN_1",
+                "ad": "Amasra Kalesi"
+            },
+            {
+                "id": "BARTIN_2",
+                "ad": "Amasra Müzesi"
+            },
+            {
+                "id": "BARTIN_3",
+                "ad": "Kapısuyu Plajı"
+            },
+            {
+                "id": "BARTIN_4",
+                "ad": "Kurucaşile Sahil Şeridi"
+            },
+            {
+                "id": "BARTIN_5",
+                "ad": "Uluyayla Tabiat Parkı"
+            }
+        ]
+    },
+    {
+        "il": "batman",
+        "PlacesToVisit": [
+            {
+                "id": "BATMAN_1",
+                "ad": "Hasankeyf Antik Kenti"
+            },
+            {
+                "id": "BATMAN_2",
+                "ad": "Malabadi Köprüsü"
+            },
+            {
+                "id": "BATMAN_3",
+                "ad": "Batman Çağdaş Sanatlar Müzesi"
+            },
+            {
+                "id": "BATMAN_4",
+                "ad": "Mor Kiryakos Manastırı"
+            },
+            {
+                "id": "BATMAN_5",
+                "ad": "Gözeler Mağarası"
+            }
+        ]
+    },
+    {
+        "il": "bayburt",
+        "PlacesToVisit": [
+            {
+                "id": "BAYBURT_1",
+                "ad": "Bayburt Kalesi"
+            },
+            {
+                "id": "BAYBURT_2",
+                "ad": "Yedigöller Milli Parkı"
+            },
+            {
+                "id": "BAYBURT_3",
+                "ad": "Aydıntepe Mağaraları"
+            },
+            {
+                "id": "BAYBURT_4",
+                "ad": "Kümbet Yaylası"
+            },
+            {
+                "id": "BAYBURT_5",
+                "ad": "Altıntepe Ören Yeri"
+            }
+        ]
+    },
+    {
+        "il": "bilecik",
+        "PlacesToVisit": [
+            {
+                "id": "BİLECİK_1",
+                "ad": "Söğüt Köyü ve Türbesi"
+            },
+            {
+                "id": "BİLECİK_2",
+                "ad": "Kınık Kalesi"
+            },
+            {
+                "id": "BİLECİK_3",
+                "ad": "Işıklı Göl Milli Parkı"
+            },
+            {
+                "id": "BİLECİK_4",
+                "ad": "Paşa Çiftliği"
+            },
+            {
+                "id": "BİLECİK_5",
+                "ad": "Beşiktaş Kaplıcaları"
+            }
+        ]
+    },
+    {
+        "il": "bingöl",
+        "PlacesToVisit": [
+            {
+                "id": "BİNGÖL_1",
+                "ad": "Gölbaşı Gölü"
+            },
+            {
+                "id": "BİNGÖL_2",
+                "ad": "Sarıkaya Roma Köprüsü"
+            },
+            {
+                "id": "BİNGÖL_3",
+                "ad": "Kiğı Kalesi"
+            },
+            {
+                "id": "BİNGÖL_4",
+                "ad": "Bayburt Kalesi"
+            },
+            {
+                "id": "BİNGÖL_5",
+                "ad": "El-Aman Hanı"
+            }
+        ]
+    },
+    {
+        "il": "bitlis",
+        "PlacesToVisit": [
+            {
+                "id": "BİTLİS_1",
+                "ad": "Nemrut Krater Gölü"
+            },
+            {
+                "id": "BİTLİS_2",
+                "ad": "Bitlis Eski Evleri"
+            },
+            {
+                "id": "BİTLİS_3",
+                "ad": "Bitlis Kalesi"
+            },
+            {
+                "id": "BİTLİS_4",
+                "ad": "Ahlat Selçuklu Mezarlığı"
+            },
+            {
+                "id": "BİTLİS_5",
+                "ad": "Cedidiye Medresesi"
+            }
+        ]
+    },
+    {
+        "il": "bolu",
+        "PlacesToVisit": [
+            {
+                "id": "BOLU_1",
+                "ad": "Gölcük Tabiat Parkı"
+            },
+            {
+                "id": "BOLU_2",
+                "ad": "Yedigöller Milli Parkı"
+            },
+            {
+                "id": "BOLU_3",
+                "ad": "Abant Gölü"
+            },
+            {
+                "id": "BOLU_4",
+                "ad": "Gerede Taşköprü"
+            },
+            {
+                "id": "BOLU_5",
+                "ad": "Göynük Safranbolu Evleri"
+            }
+        ]
+    },
+    {
+        "il": "burdur",
+        "PlacesToVisit": [
+            {
+                "id": "BURDUR_1",
+                "ad": "Sagalassos Antik Kenti"
+            },
+            {
+                "id": "BURDUR_2",
+                "ad": "Burdur Müzesi"
+            },
+            {
+                "id": "BURDUR_3",
+                "ad": "Tazi Canyon"
+            },
+            {
+                "id": "BURDUR_4",
+                "ad": "Isparta Göller Yöresi"
+            },
+            {
+                "id": "BURDUR_5",
+                "ad": "Kremna Antik Kenti"
+            }
+        ]
+    },
+    {
+        "il": "bursa",
+        "PlacesToVisit": [
+            {
+                "id": "BURSA_1",
+                "ad": "Uludağ Milli Parkı"
+            },
+            {
+                "id": "BURSA_2",
+                "ad": "Ulu Camii"
+            },
+            {
+                "id": "BURSA_3",
+                "ad": "Bursa Kalesi"
+            },
+            {
+                "id": "BURSA_4",
+                "ad": "Irgandı Köprüsü"
+            },
+            {
+                "id": "BURSA_5",
+                "ad": "Yeşil Türbe"
+            }
+        ]
+    },
+    {
+        "il": "çanakkale",
+        "PlacesToVisit": [
+            {
+                "id": "ÇANAKKALE_1",
+                "ad": "Troya Antik Kenti"
+            },
+            {
+                "id": "ÇANAKKALE_2",
+                "ad": "Bozcaada"
+            },
+            {
+                "id": "ÇANAKKALE_3",
+                "ad": "Assos Antik Kenti"
+            },
+            {
+                "id": "ÇANAKKALE_4",
+                "ad": "Çanakkale Şehitler Abidesi"
+            },
+            {
+                "id": "ÇANAKKALE_5",
+                "ad": "Gelibolu Yarımadası Tarihi Milli Parkı"
+            }
+        ]
+    },
+    {
+        "il": "çankırı",
+        "PlacesToVisit": [
+            {
+                "id": "ÇANKIRI_1",
+                "ad": "Atatürk ve Etnografya Müzesi"
+            },
+            {
+                "id": "ÇANKIRI_2",
+                "ad": "Çankırı Kalesi"
+            },
+            {
+                "id": "ÇANKIRI_3",
+                "ad": "Kurşunlu Kaplıcaları"
+            },
+            {
+                "id": "ÇANKIRI_4",
+                "ad": "Gümerdiğin Mağarası"
+            },
+            {
+                "id": "ÇANKIRI_5",
+                "ad": "Kurşunlu Han"
+            }
+        ]
+    },
+    {
+        "il": "çorum",
+        "PlacesToVisit": [
+            {
+                "id": "ÇORUM_1",
+                "ad": "Alacahöyük"
+            },
+            {
+                "id": "ÇORUM_2",
+                "ad": "Boğazköy"
+            },
+            {
+                "id": "ÇORUM_3",
+                "ad": "Çorum Arkeoloji Müzesi"
+            },
+            {
+                "id": "ÇORUM_4",
+                "ad": "Koyunbaba Türbesi"
+            },
+            {
+                "id": "ÇORUM_5",
+                "ad": "Çorum Kalesi"
+            }
+        ]
+    },
+    {
+        "il": "denizli",
+        "PlacesToVisit": [
+            {
+                "id": "DENİZLİ_1",
+                "ad": "Pamukkale"
+            },
+            {
+                "id": "DENİZLİ_2",
+                "ad": "Hierapolis Antik Kenti"
+            },
+            {
+                "id": "DENİZLİ_3",
+                "ad": "Laodikeia Antik Kenti"
+            },
+            {
+                "id": "DENİZLİ_4",
+                "ad": "Denizli Kalesi"
+            },
+            {
+                "id": "DENİZLİ_5",
+                "ad": "Karahayıt Kaplıcaları"
+            }
+        ]
+    },
+    {
+        "il": "diyarbakır",
+        "PlacesToVisit": [
+            {
+                "id": "DİYARBAKIR_1",
+                "ad": "Diyarbakır Surları"
+            },
+            {
+                "id": "DİYARBAKIR_2",
+                "ad": "Dört Ayaklı Minare"
+            },
+            {
+                "id": "DİYARBAKIR_3",
+                "ad": "Hevsel Bahçeleri"
+            },
+            {
+                "id": "DİYARBAKIR_4",
+                "ad": "Diyarbakır Ulu Camii"
+            },
+            {
+                "id": "DİYARBAKIR_5",
+                "ad": "Amida Höyüğü"
+            }
+        ]
+    },
+    {
+        "il": "düzce",
+        "PlacesToVisit": [
+            {
+                "id": "DÜZCE_1",
+                "ad": "Sakarya Nehri Kıyısı"
+            },
+            {
+                "id": "DÜZCE_2",
+                "ad": "Samandere Şelalesi"
+            },
+            {
+                "id": "DÜZCE_3",
+                "ad": "Konuralp Müzesi"
+            },
+            {
+                "id": "DÜZCE_4",
+                "ad": "Düzce Kalesi"
+            },
+            {
+                "id": "DÜZCE_5",
+                "ad": "Cumayeri Yaylası"
+            }
+        ]
+    },
+    {
+        "il": "edirne",
+        "PlacesToVisit": [
+            {
+                "id": "EDİRNE_1",
+                "ad": "Selimiye Camii"
+            },
+            {
+                "id": "EDİRNE_2",
+                "ad": "Edirne Sarayı"
+            },
+            {
+                "id": "EDİRNE_3",
+                "ad": "Karaağaç Tren Garı"
+            },
+            {
+                "id": "EDİRNE_4",
+                "ad": "Meriç Nehri Kıyısı"
+            },
+            {
+                "id": "EDİRNE_5",
+                "ad": "Rüstem Paşa Kervansarayı"
+            }
+        ]
+    },
+    {
+        "il": "elazığ",
+        "PlacesToVisit": [
+            {
+                "id": "ELAZIĞ_1",
+                "ad": "Harput Kalesi"
+            },
+            {
+                "id": "ELAZIĞ_2",
+                "ad": "Harput Ulu Camii"
+            },
+            {
+                "id": "ELAZIĞ_3",
+                "ad": "XV Temmuz Millet Bahçesi"
+            },
+            {
+                "id": "ELAZIĞ_4",
+                "ad": "Elazığ Arkeoloji Müzesi"
+            },
+            {
+                "id": "ELAZIĞ_5",
+                "ad": "Sivrice Gölü Tabiat Parkı"
+            }
+        ]
+    },
+    {
+        "il": "erzincan",
+        "PlacesToVisit": [
+            {
+                "id": "ERZİNCAN_1",
+                "ad": "Tortum Gölü"
+            },
+            {
+                "id": "ERZİNCAN_2",
+                "ad": "Kemaliye (Eğin)"
+            },
+            {
+                "id": "ERZİNCAN_3",
+                "ad": "Niksar Kalesi"
+            },
+            {
+                "id": "ERZİNCAN_4",
+                "ad": "Kemah Kalesi"
+            },
+            {
+                "id": "ERZİNCAN_5",
+                "ad": "Çağlayan Vadisi Milli Parkı"
+            }
+        ]
+    },
+    {
+        "il": "erzurum",
+        "PlacesToVisit": [
+            {
+                "id": "ERZURUM_1",
+                "ad": "Palandöken Dağı"
+            },
+            {
+                "id": "ERZURUM_2",
+                "ad": "Çifte Minareli Medrese"
+            },
+            {
+                "id": "ERZURUM_3",
+                "ad": "Tortum Şelalesi"
+            },
+            {
+                "id": "ERZURUM_4",
+                "ad": "Aziziye Tabyaları"
+            },
+            {
+                "id": "ERZURUM_5",
+                "ad": "Erzurum Kalesi"
+            }
+        ]
+    },
+    {
+        "il": "eskişehir",
+        "PlacesToVisit": [
+            {
+                "id": "ESKİŞEHİR_1",
+                "ad": "Porsuk Çayı"
+            },
+            {
+                "id": "ESKİŞEHİR_2",
+                "ad": "Odunpazarı Evleri"
+            },
+            {
+                "id": "ESKİŞEHİR_3",
+                "ad": "Eskişehir Bilim, Sanat ve Kültür Parkı"
+            },
+            {
+                "id": "ESKİŞEHİR_4",
+                "ad": "Lületaşı Müzesi"
+            },
+            {
+                "id": "ESKİŞEHİR_5",
+                "ad": "Sazova Parkı"
+            }
+        ]
+    },
+    {
+        "il": "gaziantep",
+        "PlacesToVisit": [
+            {
+                "id": "GAZİANTEP_1",
+                "ad": "Zeugma Mozaik Müzesi"
+            },
+            {
+                "id": "GAZİANTEP_2",
+                "ad": "Gaziantep Kalesi"
+            },
+            {
+                "id": "GAZİANTEP_3",
+                "ad": "Bakırcılar Çarşısı"
+            },
+            {
+                "id": "GAZİANTEP_4",
+                "ad": "Coppersmiths' Bazaar"
+            },
+            {
+                "id": "GAZİANTEP_5",
+                "ad": "Gaziantep Tarihi Bedesten"
+            }
+        ]
+    },
+    {
+        "il": "giresun",
+        "PlacesToVisit": [
+            {
+                "id": "GİRESUN_1",
+                "ad": "Giresun Adası"
+            },
+            {
+                "id": "GİRESUN_2",
+                "ad": "Giresun Kalesi"
+            },
+            {
+                "id": "GİRESUN_3",
+                "ad": "Giresun Müzesi"
+            },
+            {
+                "id": "GİRESUN_4",
+                "ad": "Giresun Adası Aksu Parkı"
+            },
+            {
+                "id": "GİRESUN_5",
+                "ad": "Görele Kalesi"
+            }
+        ]
+    },
+    {
+        "il": "gümüşhane",
+        "PlacesToVisit": [
+            {
+                "id": "GÜMÜŞHANE_1",
+                "ad": "Çakallar Vadisi"
+            },
+            {
+                "id": "GÜMÜŞHANE_2",
+                "ad": "Karaca Mağarası"
+            },
+            {
+                "id": "GÜMÜŞHANE_3",
+                "ad": "Tomara Şelalesi"
+            },
+            {
+                "id": "GÜMÜŞHANE_4",
+                "ad": "Kürtün Şelalesi"
+            },
+            {
+                "id": "GÜMÜŞHANE_5",
+                "ad": "Limni Gölü Tabiat Parkı"
+            }
+        ]
+    },
+    {
+        "il": "hakkari",
+        "PlacesToVisit": [
+            {
+                "id": "HAKKARİ_1",
+                "ad": "Cilo Dağı Milli Parkı"
+            },
+            {
+                "id": "HAKKARİ_2",
+                "ad": "Merga Bütan Kayak Merkezi"
+            },
+            {
+                "id": "HAKKARİ_3",
+                "ad": "Hakkâri Kalesi"
+            },
+            {
+                "id": "HAKKARİ_4",
+                "ad": "Şemdinli Şelaleleri"
+            },
+            {
+                "id": "HAKKARİ_5",
+                "ad": "Işıklı Gölü"
+            }
+        ]
+    },
+    {
+        "il": "hatay",
+        "PlacesToVisit": [
+            {
+                "id": "HATAY_1",
+                "ad": "St. Pierre Kilisesi"
+            },
+            {
+                "id": "HATAY_2",
+                "ad": "Antakya Müzesi"
+            },
+            {
+                "id": "HATAY_3",
+                "ad": "Titus Tüneli"
+            },
+            {
+                "id": "HATAY_4",
+                "ad": "Vakıflı Köyü"
+            },
+            {
+                "id": "HATAY_5",
+                "ad": "Samandağ Plajları"
+            }
+        ]
+    },
+    {
+        "il": "ığdır",
+        "PlacesToVisit": [
+            {
+                "id": "IĞDIR_1",
+                "ad": "Iğdır Müzesi"
+            },
+            {
+                "id": "IĞDIR_2",
+                "ad": "Aras Nehri Kıyısı"
+            },
+            {
+                "id": "IĞDIR_3",
+                "ad": "Tuzluca Kaplıcaları"
+            },
+            {
+                "id": "IĞDIR_4",
+                "ad": "Şeyh Ahmet Türbesi"
+            },
+            {
+                "id": "IĞDIR_5",
+                "ad": "Karataş Tümülüsü"
+            }
+        ]
+    },
+    {
+        "il": "ısparta",
+        "PlacesToVisit": [
+            {
+                "id": "ISPARTA_1",
+                "ad": "Eğirdir Gölü"
+            },
+            {
+                "id": "ISPARTA_2",
+                "ad": "Davraz Kayak Merkezi"
+            },
+            {
+                "id": "ISPARTA_3",
+                "ad": "Gölcük Tabiat Parkı"
+            },
+            {
+                "id": "ISPARTA_4",
+                "ad": "Yalvaç Müzesi"
+            },
+            {
+                "id": "ISPARTA_5",
+                "ad": "Girmeler Mağarası"
+            }
+        ]
+    },
+    {
+        "il": "istanbul",
+        "PlacesToVisit": [
+            {
+                "id": "İSTANBUL_1",
+                "ad": "Ayasofya Müzesi"
+            },
+            {
+                "id": "İSTANBUL_2",
+                "ad": "Topkapı Sarayı"
+            },
+            {
+                "id": "İSTANBUL_3",
+                "ad": "Kapalı Çarşı"
+            },
+            {
+                "id": "İSTANBUL_4",
+                "ad": "Boğaziçi Köprüsü"
+            },
+            {
+                "id": "İSTANBUL_5",
+                "ad": "Galata Kulesi"
+            }
+        ]
+    },
+    {
+        "il": "izmir",
+        "PlacesToVisit": [
+            {
+                "id": "İZMİR_1",
+                "ad": "Efes Antik Kenti"
+            },
+            {
+                "id": "İZMİR_2",
+                "ad": "Kemeraltı Çarşısı"
+            },
+            {
+                "id": "İZMİR_3",
+                "ad": "Saat Kulesi"
+            },
+            {
+                "id": "İZMİR_4",
+                "ad": "İzmir Arkeoloji Müzesi"
+            },
+            {
+                "id": "İZMİR_5",
+                "ad": "Alsancak Kordon"
+            }
+        ]
+    },
+    {
+        "il": "kahramanmaraş",
+        "PlacesToVisit": [
+            {
+                "id": "KAHRAMANMARAŞ_1",
+                "ad": "Kahramanmaraş Kalesi"
+            },
+            {
+                "id": "KAHRAMANMARAŞ_2",
+                "ad": "Yedikuyular Kayak Merkezi"
+            },
+            {
+                "id": "KAHRAMANMARAŞ_3",
+                "ad": "Mozaik Müzesi"
+            },
+            {
+                "id": "KAHRAMANMARAŞ_4",
+                "ad": "Taş Camii"
+            },
+            {
+                "id": "KAHRAMANMARAŞ_5",
+                "ad": "Aras Vadisi Tabiat Parkı"
+            }
+        ]
+    },
+    {
+        "il": "karabük",
+        "PlacesToVisit": [
+            {
+                "id": "KARABÜK_1",
+                "ad": "Safranbolu Evleri"
+            },
+            {
+                "id": "KARABÜK_2",
+                "ad": "Safranbolu Çarşıları"
+            },
+            {
+                "id": "KARABÜK_3",
+                "ad": "Kent Ormanı"
+            },
+            {
+                "id": "KARABÜK_4",
+                "ad": "Safranbolu Müzesi"
+            },
+            {
+                "id": "KARABÜK_5",
+                "ad": "Yörük Köyü"
+            }
+        ]
+    },
+    {
+        "il": "karaman",
+        "PlacesToVisit": [
+            {
+                "id": "KARAMAN_1",
+                "ad": "Ermenek Gökgöl Mağarası"
+            },
+            {
+                "id": "KARAMAN_2",
+                "ad": "Manazan Mağarası"
+            },
+            {
+                "id": "KARAMAN_3",
+                "ad": "Karaman Kalesi"
+            },
+            {
+                "id": "KARAMAN_4",
+                "ad": "Alahan Manastırı"
+            },
+            {
+                "id": "KARAMAN_5",
+                "ad": "Binbirkilise"
+            }
+        ]
+    },
+    {
+        "il": "kars",
+        "PlacesToVisit": [
+            {
+                "id": "KARS_1",
+                "ad": "Ani Harabeleri"
+            },
+            {
+                "id": "KARS_2",
+                "ad": "Kars Kalesi"
+            },
+            {
+                "id": "KARS_3",
+                "ad": "Sarıkamış Kayak Merkezi"
+            },
+            {
+                "id": "KARS_4",
+                "ad": "Çıldır Gölü"
+            },
+            {
+                "id": "KARS_5",
+                "ad": "Taş Köprü"
+            }
+        ]
+    },
+    {
+        "il": "kastamonu",
+        "PlacesToVisit": [
+            {
+                "id": "KASTAMONU_1",
+                "ad": "İnebolu Eski Evleri"
+            },
+            {
+                "id": "KASTAMONU_2",
+                "ad": "Küre Dağları Milli Parkı"
+            },
+            {
+                "id": "KASTAMONU_3",
+                "ad": "Kastamonu Kalesi"
+            },
+            {
+                "id": "KASTAMONU_4",
+                "ad": "Nasrullah Kervansarayı"
+            },
+            {
+                "id": "KASTAMONU_5",
+                "ad": "Kastamonu Arkeoloji Müzesi"
+            }
+        ]
+    },
+    {
+        "il": "kayseri",
+        "PlacesToVisit": [
+            {
+                "id": "KAYSERİ_1",
+                "ad": "Erciyes Dağı"
+            },
+            {
+                "id": "KAYSERİ_2",
+                "ad": "Geçit Kuş Cenneti"
+            },
+            {
+                "id": "KAYSERİ_3",
+                "ad": "Kayseri Kalesi"
+            },
+            {
+                "id": "KAYSERİ_4",
+                "ad": "Kültepe Höyüğü"
+            },
+            {
+                "id": "KAYSERİ_5",
+                "ad": "Kayseri Saat Kulesi"
+            }
+        ]
+    },
+    {
+        "il": "kırıkkale",
+        "PlacesToVisit": [
+            {
+                "id": "KIRIKKALE_1",
+                "ad": "Delice Kanyonu"
+            },
+            {
+                "id": "KIRIKKALE_2",
+                "ad": "Hamamözü Şelalesi"
+            },
+            {
+                "id": "KIRIKKALE_3",
+                "ad": "Yaban Hayatı Geliştirme Sahası"
+            },
+            {
+                "id": "KIRIKKALE_4",
+                "ad": "Sulu Mağara"
+            },
+            {
+                "id": "KIRIKKALE_5",
+                "ad": "Sulakyurt Yaylası"
+            }
+        ]
+    },
+    {
+        "il": "kırklareli",
+        "PlacesToVisit": [
+            {
+                "id": "KIRKLARELİ_1",
+                "ad": "Kıyıköy"
+            },
+            {
+                "id": "KIRKLARELİ_2",
+                "ad": "Babaeski Tarihi Kapalı Çarşı"
+            },
+            {
+                "id": "KIRKLARELİ_3",
+                "ad": "Kırklareli Müzesi"
+            },
+            {
+                "id": "KIRKLARELİ_4",
+                "ad": "Vize Kalesi"
+            },
+            {
+                "id": "KIRKLARELİ_5",
+                "ad": "Demirköy Taş Ocakları"
+            }
+        ]
+    },
+    {
+        "il": "kırşehir",
+        "PlacesToVisit": [
+            {
+                "id": "KIRŞEHİR_1",
+                "ad": "Kaman Kalehöyük"
+            },
+            {
+                "id": "KIRŞEHİR_2",
+                "ad": "Mucur Köyü ve Göleti"
+            },
+            {
+                "id": "KIRŞEHİR_3",
+                "ad": "Kıranardı Mağarası"
+            },
+            {
+                "id": "KIRŞEHİR_4",
+                "ad": "Çiçekli Köyü ve Göleti"
+            },
+            {
+                "id": "KIRŞEHİR_5",
+                "ad": "Akçakent Saat Kulesi"
+            }
+        ]
+    },
+    {
+        "il": "kilis",
+        "PlacesToVisit": [
+            {
+                "id": "KİLİS_1",
+                "ad": "Kilis Kalesi"
+            },
+            {
+                "id": "KİLİS_2",
+                "ad": "Kilis Müzesi"
+            },
+            {
+                "id": "KİLİS_3",
+                "ad": "Süleyman Şah Türbesi"
+            },
+            {
+                "id": "KİLİS_4",
+                "ad": "Kurucu Han"
+            },
+            {
+                "id": "KİLİS_5",
+                "ad": "Dülükbaba Piknik Alanı"
+            }
+        ]
+    },
+    {
+        "il": "kocaeli",
+        "PlacesToVisit": [
+            {
+                "id": "KOCAELİ_1",
+                "ad": "İzmit Saat Kulesi"
+            },
+            {
+                "id": "KOCAELİ_2",
+                "ad": "Seka Parkı"
+            },
+            {
+                "id": "KOCAELİ_3",
+                "ad": "Kocaeli Bilim Merkezi"
+            },
+            {
+                "id": "KOCAELİ_4",
+                "ad": "Kandıra Plajları"
+            },
+            {
+                "id": "KOCAELİ_5",
+                "ad": "Kartepe Kayak Merkezi"
+            }
+        ]
+    },
+    {
+        "il": "konya",
+        "PlacesToVisit": [
+            {
+                "id": "KONYA_1",
+                "ad": "Mevlana Türbesi"
+            },
+            {
+                "id": "KONYA_2",
+                "ad": "Konya Etnografya Müzesi"
+            },
+            {
+                "id": "KONYA_3",
+                "ad": "Karatay Medresesi"
+            },
+            {
+                "id": "KONYA_4",
+                "ad": "Konya Tropikal Kelebek Bahçesi"
+            },
+            {
+                "id": "KONYA_5",
+                "ad": "Konya Kulesi"
+            }
+        ]
+    },
+    {
+        "il": "kütahya",
+        "PlacesToVisit": [
+            {
+                "id": "KÜTAHYA_1",
+                "ad": "Kütahya Kalesi"
+            },
+            {
+                "id": "KÜTAHYA_2",
+                "ad": "Frig Vadisi"
+            },
+            {
+                "id": "KÜTAHYA_3",
+                "ad": "Aizanoi Antik Kenti"
+            },
+            {
+                "id": "KÜTAHYA_4",
+                "ad": "Kütahya Çini Müzesi"
+            },
+            {
+                "id": "KÜTAHYA_5",
+                "ad": "Şaphane Göleti Tabiat Parkı"
+            }
+        ]
+    },
+    {
+        "il": "malatya",
+        "PlacesToVisit": [
+            {
+                "id": "MALATYA_1",
+                "ad": "Battalgazi Türbesi"
+            },
+            {
+                "id": "MALATYA_2",
+                "ad": "Nemrut Dağı Milli Parkı"
+            },
+            {
+                "id": "MALATYA_3",
+                "ad": "Aslantepe Höyüğü"
+            },
+            {
+                "id": "MALATYA_4",
+                "ad": "Malatya Müzesi"
+            },
+            {
+                "id": "MALATYA_5",
+                "ad": "Malatya Kent Müzesi"
+            }
+        ]
+    },
+    {
+        "il": "manisa",
+        "PlacesToVisit": [
+            {
+                "id": "MANİSA_1",
+                "ad": "Sardes Antik Kenti"
+            },
+            {
+                "id": "MANİSA_2",
+                "ad": "Manisa Kalesi"
+            },
+            {
+                "id": "MANİSA_3",
+                "ad": "Kula Evleri"
+            },
+            {
+                "id": "MANİSA_4",
+                "ad": "Niobe Mitolojik Heykeli"
+            },
+            {
+                "id": "MANİSA_5",
+                "ad": "Spil Dağı Milli Parkı"
+            }
+        ]
+    },
+    {
+        "il": "mardin",
+        "PlacesToVisit": [
+            {
+                "id": "MARDİN_1",
+                "ad": "Deyrulzafaran Manastırı"
+            },
+            {
+                "id": "MARDİN_2",
+                "ad": "Mardin Kalesi"
+            },
+            {
+                "id": "MARDİN_3",
+                "ad": "Mardin Müzesi"
+            },
+            {
+                "id": "MARDİN_4",
+                "ad": "Mor Gabriel Manastırı"
+            },
+            {
+                "id": "MARDİN_5",
+                "ad": "Midyat Evleri"
+            }
+        ]
+    },
+    {
+        "il": "mersin",
+        "PlacesToVisit": [
+            {
+                "id": "MERSİN_1",
+                "ad": "Silifke Kalesi"
+            },
+            {
+                "id": "MERSİN_2",
+                "ad": "Kızkalesi"
+            },
+            {
+                "id": "MERSİN_3",
+                "ad": "Adamkayalar"
+            },
+            {
+                "id": "MERSİN_4",
+                "ad": "Cennet-Cehennem Mağaraları"
+            },
+            {
+                "id": "MERSİN_5",
+                "ad": "Anamurium Antik Kenti"
+            }
+        ]
+    },
+    {
+        "il": "muğla",
+        "PlacesToVisit": [
+            {
+                "id": "MUĞLA_1",
+                "ad": "Bodrum Kalesi"
+            },
+            {
+                "id": "MUĞLA_2",
+                "ad": "Marmaris Kalesi"
+            },
+            {
+                "id": "MUĞLA_3",
+                "ad": "Ölüdeniz"
+            },
+            {
+                "id": "MUĞLA_4",
+                "ad": "Dalyan"
+            },
+            {
+                "id": "MUĞLA_5",
+                "ad": "Kaunos Antik Kenti"
+            }
+        ]
+    },
+    {
+        "il": "muş",
+        "PlacesToVisit": [
+            {
+                "id": "MUŞ_1",
+                "ad": "Murat Köprüsü"
+            },
+            {
+                "id": "MUŞ_2",
+                "ad": "Kardeşler Kayak Merkezi"
+            },
+            {
+                "id": "MUŞ_3",
+                "ad": "Muş Kalesi"
+            },
+            {
+                "id": "MUŞ_4",
+                "ad": "Cami-i Kebir"
+            },
+            {
+                "id": "MUŞ_5",
+                "ad": "Büyük Selçuklu Hamamı"
+            }
+        ]
+    },
+    {
+        "il": "nevşehir",
+        "PlacesToVisit": [
+            {
+                "id": "NEVŞEHİR_1",
+                "ad": "Kapadokya"
+            },
+            {
+                "id": "NEVŞEHİR_2",
+                "ad": "Göreme Açık Hava Müzesi"
+            },
+            {
+                "id": "NEVŞEHİR_3",
+                "ad": "Peri Bacaları"
+            },
+            {
+                "id": "NEVŞEHİR_4",
+                "ad": "Derinkuyu Yeraltı Şehri"
+            },
+            {
+                "id": "NEVŞEHİR_5",
+                "ad": "Ürgüp Kalesi"
+            }
+        ]
+    },
+    {
+        "il": "niğde",
+        "PlacesToVisit": [
+            {
+                "id": "NİĞDE_1",
+                "ad": "Aladağlar Milli Parkı"
+            },
+            {
+                "id": "NİĞDE_2",
+                "ad": "Niğde Müzesi"
+            },
+            {
+                "id": "NİĞDE_3",
+                "ad": "Niğde Kalesi"
+            },
+            {
+                "id": "NİĞDE_4",
+                "ad": "Niğde Alaaddin Camii"
+            },
+            {
+                "id": "NİĞDE_5",
+                "ad": "Bor İçmeleri"
+            }
+        ]
+    },
+    {
+        "il": "ordu",
+        "PlacesToVisit": [
+            {
+                "id": "ORDU_1",
+                "ad": "Boztepe"
+            },
+            {
+                "id": "ORDU_2",
+                "ad": "Bolaman Kalesi"
+            },
+            {
+                "id": "ORDU_3",
+                "ad": "Ordu Teleferik"
+            },
+            {
+                "id": "ORDU_4",
+                "ad": "Paşaoğlu Konağı"
+            },
+            {
+                "id": "ORDU_5",
+                "ad": "Perşembe Yaylası"
+            }
+        ]
+    },
+    {
+        "il": "osmaniye",
+        "PlacesToVisit": [
+            {
+                "id": "OSMANİYE_1",
+                "ad": "Kastabala Antik Kenti"
+            },
+            {
+                "id": "OSMANİYE_2",
+                "ad": "Hıristiyan Vadisi Kiliseleri"
+            },
+            {
+                "id": "OSMANİYE_3",
+                "ad": "Aslantaş Açık Hava Tapınağı"
+            },
+            {
+                "id": "OSMANİYE_4",
+                "ad": "Osmaniye Kalesi"
+            },
+            {
+                "id": "OSMANİYE_5",
+                "ad": "Düziçi Baraj Gölü"
+            }
+        ]
+    },
+    {
+        "il": "rize",
+        "PlacesToVisit": [
+            {
+                "id": "RİZE_1",
+                "ad": "Ayder Yaylası"
+            },
+            {
+                "id": "RİZE_2",
+                "ad": "Zilkale"
+            },
+            {
+                "id": "RİZE_3",
+                "ad": "Rize Kalesi"
+            },
+            {
+                "id": "RİZE_4",
+                "ad": "Fırtına Deresi"
+            },
+            {
+                "id": "RİZE_5",
+                "ad": "Rize Botanik Çay Bahçesi"
+            }
+        ]
+    },
+    {
+        "il": "sakarya",
+        "PlacesToVisit": [
+            {
+                "id": "SAKARYA_1",
+                "ad": "Taraklı Evleri"
+            },
+            {
+                "id": "SAKARYA_2",
+                "ad": "Taraklı Müzesi"
+            },
+            {
+                "id": "SAKARYA_3",
+                "ad": "Sapanca Gölü"
+            },
+            {
+                "id": "SAKARYA_4",
+                "ad": "Sakarya Müzesi"
+            },
+            {
+                "id": "SAKARYA_5",
+                "ad": "Serdivan Kapalı Çarşı"
+            }
+        ]
+    },
+    {
+        "il": "samsun",
+        "PlacesToVisit": [
+            {
+                "id": "SAMSUN_1",
+                "ad": "Bandırma Vapuru Müzesi"
+            },
+            {
+                "id": "SAMSUN_2",
+                "ad": "Amisos Tepesi"
+            },
+            {
+                "id": "SAMSUN_3",
+                "ad": "Bafra Müzesi"
+            },
+            {
+                "id": "SAMSUN_4",
+                "ad": "Gazi Müzesi"
+            },
+            {
+                "id": "SAMSUN_5",
+                "ad": "Samsun Sahili"
+            }
+        ]
+    },
+    {
+        "il": "siirt",
+        "PlacesToVisit": [
+            {
+                "id": "SİİRT_1",
+                "ad": "Botan Çayı"
+            },
+            {
+                "id": "SİİRT_2",
+                "ad": "Siirt Kalesi"
+            },
+            {
+                "id": "SİİRT_3",
+                "ad": "Ulucamii"
+            },
+            {
+                "id": "SİİRT_4",
+                "ad": "Cudi Dağı Milli Parkı"
+            },
+            {
+                "id": "SİİRT_5",
+                "ad": "Şırnak Dağları Tabiat Parkı"
+            }
+        ]
+    },
+    {
+        "il": "sinop",
+        "PlacesToVisit": [
+            {
+                "id": "SİNOP_1",
+                "ad": "Sinop Kale"
+            },
+            {
+                "id": "SİNOP_2",
+                "ad": "Sinop Cezaevi Müzesi"
+            },
+            {
+                "id": "SİNOP_3",
+                "ad": "Erfelek Tatlıca Şelaleleri"
+            },
+            {
+                "id": "SİNOP_4",
+                "ad": "Hamsilos Koyu"
+            },
+            {
+                "id": "SİNOP_5",
+                "ad": "Gerze Plajları"
+            }
+        ]
+    },
+    {
+        "il": "sivas",
+        "PlacesToVisit": [
+            {
+                "id": "SİVAS_1",
+                "ad": "Divriği Ulu Camii ve Darüşşifası"
+            },
+            {
+                "id": "SİVAS_2",
+                "ad": "Kangal Balıklı Kaplıca"
+            },
+            {
+                "id": "SİVAS_3",
+                "ad": "Gökpınar Gölü Tabiat Parkı"
+            },
+            {
+                "id": "SİVAS_4",
+                "ad": "Buruciye Medresesi"
+            },
+            {
+                "id": "SİVAS_5",
+                "ad": "Sivas Müzesi"
+            }
+        ]
+    },
+    {
+        "il": "şanlıurfa",
+        "PlacesToVisit": [
+            {
+                "id": "ŞANLIURFA_1",
+                "ad": "Göbeklitepe"
+            },
+            {
+                "id": "ŞANLIURFA_2",
+                "ad": "Balıklıgöl"
+            },
+            {
+                "id": "ŞANLIURFA_3",
+                "ad": "Şanlıurfa Müzesi"
+            },
+            {
+                "id": "ŞANLIURFA_4",
+                "ad": "Halil-ür Rahman Gölü"
+            },
+            {
+                "id": "ŞANLIURFA_5",
+                "ad": "Harran"
+            }
+        ]
+    },
+    {
+        "il": "şırnak",
+        "PlacesToVisit": [
+            {
+                "id": "ŞIRNAK_1",
+                "ad": "Şırnak Kalesi"
+            },
+            {
+                "id": "ŞIRNAK_2",
+                "ad": "Cizre Kent Tarihi Müzesi"
+            },
+            {
+                "id": "ŞIRNAK_3",
+                "ad": "Ulucamii"
+            },
+            {
+                "id": "ŞIRNAK_4",
+                "ad": "Şırnak Taş Köprü"
+            },
+            {
+                "id": "ŞIRNAK_5",
+                "ad": "Cudi Dağı Milli Parkı"
+            }
+        ]
+    },
+    {
+        "il": "tekirdağ",
+        "PlacesToVisit": [
+            {
+                "id": "TEKİRDAĞ_1",
+                "ad": "Tekirdağ Müzesi"
+            },
+            {
+                "id": "TEKİRDAĞ_2",
+                "ad": "Namık Kemal Evi"
+            },
+            {
+                "id": "TEKİRDAĞ_3",
+                "ad": "Rakoczi Müzesi"
+            },
+            {
+                "id": "TEKİRDAĞ_4",
+                "ad": "Marmara Ereğlisi Plajları"
+            },
+            {
+                "id": "TEKİRDAĞ_5",
+                "ad": "Uçmakdere Plajı"
+            }
+        ]
+    },
+    {
+        "il": "tokat",
+        "PlacesToVisit": [
+            {
+                "id": "TOKAT_1",
+                "ad": "Niksar Kalesi"
+            },
+            {
+                "id": "TOKAT_2",
+                "ad": "Tokat Müzesi"
+            },
+            {
+                "id": "TOKAT_3",
+                "ad": "Zile Kalesi"
+            },
+            {
+                "id": "TOKAT_4",
+                "ad": "Almus Barajı"
+            },
+            {
+                "id": "TOKAT_5",
+                "ad": "Ballıca Mağarası"
+            }
+        ]
+    },
+    {
+        "il": "trabzon",
+        "PlacesToVisit": [
+            {
+                "id": "TRABZON_1",
+                "ad": "Sümela Manastırı"
+            },
+            {
+                "id": "TRABZON_2",
+                "ad": "Uzungöl"
+            },
+            {
+                "id": "TRABZON_3",
+                "ad": "Atatürk Köşkü"
+            },
+            {
+                "id": "TRABZON_4",
+                "ad": "Boztepe"
+            },
+            {
+                "id": "TRABZON_5",
+                "ad": "Trabzon Müzesi"
+            }
+        ]
+    },
+    {
+        "il": "tunceli",
+        "PlacesToVisit": [
+            {
+                "id": "TUNCELİ_1",
+                "ad": "Pülümür Kalesi"
+            },
+            {
+                "id": "TUNCELİ_2",
+                "ad": "Ovacık Çağlayanı"
+            },
+            {
+                "id": "TUNCELİ_3",
+                "ad": "Munzur Vadisi Milli Parkı"
+            },
+            {
+                "id": "TUNCELİ_4",
+                "ad": "Tunceli Müzesi"
+            },
+            {
+                "id": "TUNCELİ_5",
+                "ad": "Nazımiye Kümbeti"
+            }
+        ]
+    },
+    {
+        "il": "uşak",
+        "PlacesToVisit": [
+            {
+                "id": "UŞAK_1",
+                "ad": "Uşak Müzesi"
+            },
+            {
+                "id": "UŞAK_2",
+                "ad": "Uşak Müzesi"
+            },
+            {
+                "id": "UŞAK_3",
+                "ad": "Banaz Kaplıcaları"
+            },
+            {
+                "id": "UŞAK_4",
+                "ad": "Karun Hazineleri Müzesi"
+            },
+            {
+                "id": "UŞAK_5",
+                "ad": "Aizanoi Antik Kenti"
+            }
+        ]
+    },
+    {
+        "il": "van",
+        "PlacesToVisit": [
+            {
+                "id": "VAN_1",
+                "ad": "Van Kalesi"
+            },
+            {
+                "id": "VAN_2",
+                "ad": "Akdamar Adası"
+            },
+            {
+                "id": "VAN_3",
+                "ad": "Çavuştepe Kalesi"
+            },
+            {
+                "id": "VAN_4",
+                "ad": "Van Müzesi"
+            },
+            {
+                "id": "VAN_5",
+                "ad": "Hoşap Kalesi"
+            }
+        ]
+    },
+    {
+        "il": "artvin",
+        "PlacesToVisit": [
+            {
+                "id": "YALOVA_1",
+                "ad": "Termal Turizm"
+            },
+            {
+                "id": "YALOVA_2",
+                "ad": "Yalova Müzesi"
+            },
+            {
+                "id": "YALOVA_3",
+                "ad": "Atatürk Köşkü"
+            },
+            {
+                "id": "YALOVA_4",
+                "ad": "Eski Yalova Çarşısı"
+            },
+            {
+                "id": "YALOVA_5",
+                "ad": "Erdem Köşkü"
+            }
+        ]
+    },
+    {
+        "il": "yozgat",
+        "PlacesToVisit": [
+            {
+                "id": "YOZGAT_1",
+                "ad": "Yozgat Müzesi"
+            },
+            {
+                "id": "YOZGAT_2",
+                "ad": "Akdağmadeni Kristal Mağaraları"
+            },
+            {
+                "id": "YOZGAT_3",
+                "ad": "Yozgat Çamlığı Milli Parkı"
+            },
+            {
+                "id": "YOZGAT_4",
+                "ad": "Sarıkaya Roma Hamamı"
+            },
+            {
+                "id": "YOZGAT_5",
+                "ad": "Sarıkaya Kalesi"
+            }
+        ]
+    },
+    {
+        "il": "zonguldak",
+        "PlacesToVisit": [
+            {
+                "id": "ZONGULDAK_1",
+                "ad": "Filyos Antik Kenti"
+            },
+            {
+                "id": "ZONGULDAK_2",
+                "ad": "Gökgöl Mağarası"
+            },
+            {
+                "id": "ZONGULDAK_3",
+                "ad": "Gökçebey Mağarası"
+            },
+            {
+                "id": "ZONGULDAK_4",
+                "ad": "Ereğli Müzesi"
+            },
+            {
+                "id": "ZONGULDAK_5",
+                "ad": "Ereğli Kalesi"
+            }
+        ]
+    }
+]
